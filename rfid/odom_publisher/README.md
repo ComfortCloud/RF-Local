@@ -1,0 +1,1 @@
+$ \pi\times\pi\approx\pi^2 $

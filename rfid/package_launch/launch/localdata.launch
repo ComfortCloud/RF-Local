@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="impinj_control"  type="reader_node" name="readerdata" output="screen"/>
+    <node pkg="odom_publisher"  type="odom_publish" name="odomdata" output="screen"/>
+</launch>
